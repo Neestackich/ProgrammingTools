@@ -41,7 +41,7 @@ def collecting_information_about_system() -> str:
         }
     )
 
-    return json.dumps(result_dict, indent=4, sort_keys=True)
+    return json.dumps(result_dict, indent=4, sort_keys=False)
 
 
 def main() -> None:
