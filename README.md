@@ -17,7 +17,7 @@ Python object serializer that works in 4 formats:
 
 1. Git clone current repository
    ```bash
-    git clone https://github.com/Neestackich/ProgrammingToold/Python-Simple-Serializers.git
+    git clone https://github.com/Neestackich/ProgrammingToold.git
     ```
 2. Go to project
     ```bash
